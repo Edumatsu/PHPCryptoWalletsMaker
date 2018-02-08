@@ -18,5 +18,19 @@
         "laravel-mix": "^2.0",
         "lodash": "^4.17.4",
         "vue": "^2.5.7"
+    },
+    "packages": {
+        "bumbacoin/stronghands": {
+            "v0152": {
+                "name": "bumbacoin/stronghands",
+                "version": "v0152",
+                "version_normalized": "v0152",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/bumbacoin/stronghands"
+                },
+                "type": "library"
+            }
+        }
     }
 }
